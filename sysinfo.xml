@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<sysinfo type="smbios">
+    <bios>
+        <entry name="vendor">Acer</entry>
+    </bios>
+    <system>
+        <entry name="manufacturer">Apple</entry>
+        <entry name="product">Windows10</entry>
+        <entry name="version">20H2</entry>
+    </system>
+    <baseBoard>
+        <entry name="manufacturer">HP</entry>
+        <entry name="product">Asus</entry>
+        <entry name="version">QFGYJL6XOI</entry>
+        <entry name="serial">SAHTA5LO3F</entry>
+    </baseBoard>
+    <chassis>
+        <entry name="manufacturer">Apple</entry>
+        <entry name="version">ZEO6UNO0CK</entry>
+        <entry name="serial">SWAXYJGSAW</entry>
+        <entry name="asset">PS71A5QLAB</entry>
+        <entry name="sku">GNCROFPXLB</entry>
+    </chassis>
+    <oemStrings>
+        <entry>myappname:some arbitrary data</entry>
+        <entry>otherappname:more arbitrary data</entry>
+    </oemStrings>
+</sysinfo>
